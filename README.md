@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 🌱 Proficient in Data Structures & Algorithms
 
-- 👯 I’m looking to collaborate on project based internships/externships
-
-- 🤔 I’m looking for full time Software Development internships for 2021
+- 👯 Well-versed in Python, SQL, C++, Java, HTML, CSS, JavaScript
 
 - 📫 How to reach me: https://www.linkedin.com/in/parth-jalan
 
